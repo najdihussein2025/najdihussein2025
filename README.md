@@ -14,10 +14,10 @@ I build web platforms and business systems end to end, from the database schema 
 </p>
 <p>
   <a href="https://github.com/najdihussein2025/OnlineLearningPlatform"><img src="./cards/online-learning-platform.svg" width="49%" alt="Online Learning Platform: courses, quizzes, certificates, real-time chat and an AI assistant"></a>
-  <a href="https://github.com/najdihussein2025/TaskManagementSystem"><img src="./cards/task-management-system.svg" width="49%" alt="Task Management System: admin and user dashboards, reports, Google sign-in"></a>
+  <a href="https://www.original-iq.com/"><img src="./cards/original-iq.svg" width="49%" alt="Original IQ: multi-user tutoring platform with complex scheduling, live client project"></a>
 </p>
 
-Freelance work includes a .NET desktop system for an agriculture shop and a Laravel tutoring platform for [Original IQ](https://www.original-iq.com/).
+Other freelance work includes a .NET desktop system that runs an agriculture shop day to day: inventory, sales and customer records.
 
 ### Tools
 
