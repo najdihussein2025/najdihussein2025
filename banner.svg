@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#1b222b"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a0a0a" stop-opacity="1"/>
+      <stop offset="0.45" stop-color="#0a0a0a" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#0a0a0a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <!-- dim code wallpaper, right side -->
+  <g font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="15" fill="#6a8763" opacity="0.5">
+    <text x="740" y="58"><tspan fill="#c9a961">public class</tspan> Developer</text>
+    <text x="740" y="84">{</text>
+    <text x="773" y="110"><tspan fill="#c9a961">public string</tspan> Name =&gt; "Hussein Najdi";</text>
+    <text x="773" y="136"><tspan fill="#c9a961">public string</tspan> City =&gt; "Beirut";</text>
+    <text x="773" y="162"><tspan fill="#c9a961">public</tspan> Product Build(Idea idea) =&gt;</text>
+    <text x="806" y="188">idea.Refine().Architect().Ship();</text>
+    <text x="740" y="214">}</text>
+    <text x="740" y="252">$ dotnet build   <tspan fill="#c9a961">Build succeeded. 0 warnings.</tspan></text>
+    <text x="740" y="278">$ git push origin main   <tspan fill="#c9a961">→ deployed</tspan></text>
+  </g>
+  <rect width="1280" height="320" fill="url(#fade)"/>
+
+  <!-- frame -->
+  <rect x="24.5" y="24.5" width="1231" height="271" rx="6" fill="none" stroke="#c9a961" stroke-opacity="0.22"/>
+
+  <!-- identity -->
+  <text x="80" y="102" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="5.5" fill="#c9a961">BEIRUT · LEBANON</text>
+  <text x="76" y="178" font-family="'Playfair Display', Didot, 'Bodoni 72', Georgia, 'Times New Roman', serif" font-size="74" fill="#f2ede3">Hussein Najdi</text>
+  <line x1="80" y1="206" x2="146" y2="206" stroke="#c9a961" stroke-width="2"/>
+  <text x="80" y="242" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="4.5" fill="#a9a498">FULL-STACK DEVELOPER  ·  DESIGNER</text>
+
+  <!-- monogram -->
+  <text x="1212" y="268" text-anchor="end" font-family="'Playfair Display', Georgia, serif" font-size="22" letter-spacing="2" fill="#f2ede3" opacity="0.85">H<tspan fill="#c9a961">·</tspan>N</text>
+</svg>
