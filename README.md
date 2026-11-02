@@ -9,15 +9,13 @@ I build web platforms and business systems end to end, from the database schema 
 ### Selected work
 
 <p>
-  <a href="https://github.com/najdihussein2025/smart-sis"><img src="./cards/smart-sis.svg" width="49%" alt="Smart SIS: AI-assisted student information system for Antonine University"></a>
+  <a href="https://najdihussein2025.github.io"><img src="./cards/agriculture-shop.svg" width="49%" alt="Agriculture Shop System: .NET desktop app for inventory, sales and customer records"></a>
   <a href="https://theralink.cloud"><img src="./cards/theralink.svg" width="49%" alt="TheraLink: practice management for physiotherapy clinics"></a>
 </p>
 <p>
   <a href="https://github.com/najdihussein2025/OnlineLearningPlatform"><img src="./cards/online-learning-platform.svg" width="49%" alt="Online Learning Platform: courses, quizzes, certificates, real-time chat and an AI assistant"></a>
   <a href="https://www.original-iq.com/"><img src="./cards/original-iq.svg" width="49%" alt="Original IQ: multi-user tutoring platform with complex scheduling, live client project"></a>
 </p>
-
-Other freelance work includes a .NET desktop system that runs an agriculture shop day to day: inventory, sales and customer records.
 
 ### Tools
 
